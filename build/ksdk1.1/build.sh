@@ -1,6 +1,6 @@
 #!/bin/sh
 	
-	export ARMGCC_DIR=<full path to arm-gcc directory>
+	#export ARMGCC_DIR=<full path to arm-gcc directory>
 
 	mkdir -p work
 	mkdir -p work/boards/Warp
